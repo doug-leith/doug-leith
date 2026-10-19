@@ -7,7 +7,7 @@ Publications: [scss.tcd.ie/Doug.Leith](https://www.scss.tcd.ie/Doug.Leith/)
 
 #### Apple / iOS privacy
 - [ios-protobuf-decoding](https://github.com/doug-leith/ios-protobuf-decoding) — recovered `.proto` schemas and an offline decoder for the traffic an iPhone sends to Apple (location services, Maps, Siri, ads, telemetry)
-- [apple-apns-decoding](https://github.com/doug-leith/apple-apns-decoding) — a mitmproxy addon and decoder for Apple Push Notification service (APNs) traffic, and a report on what an iPhone's APNs messages contain
+- [ios-apns-decoding](https://github.com/doug-leith/ios-apns-decoding) — a mitmproxy addon and decoder for Apple Push Notification service (APNs) traffic, and a report on what an iPhone's APNs messages contain
 - [ios-location-services-study-data](https://github.com/doug-leith/ios-location-services-study-data) — decoded network traces for *What Location Data Does An iPhone Send To Apple?*
 - [poor-privacy-practices-of-the-apple-app-store](https://github.com/doug-leith/poor-privacy-practices-of-the-apple-app-store) — data and software for *Poor Privacy Practices Of The Apple App Store: Cookies, Advertising and Tracking Of Users*
 

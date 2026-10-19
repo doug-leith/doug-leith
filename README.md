@@ -17,7 +17,7 @@ Publications: [scss.tcd.ie/Doug.Leith](https://www.scss.tcd.ie/Doug.Leith/)
 - [android_OEM_trafficdata](https://github.com/doug-leith/android_OEM_trafficdata) — annotated traffic measurements from Samsung, Xiaomi, Huawei and Realme handsets
 
 #### Measurement tools
-- [cydia](https://github.com/doug-leith/cydia) — setting up a Wi-Fi access point and mitmdump to intercept Android and iOS traffic, including bypassing certificate checks
+- [mitm-capture-setup](https://github.com/doug-leith/mitm-capture-setup) — setting up a Wi-Fi access point and mitmdump to intercept Android and iOS traffic, including bypassing certificate checks
 - [appFirewall](https://github.com/doug-leith/appFirewall) — open-source per-application firewall for macOS
 
 #### AI-assisted software development

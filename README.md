@@ -36,5 +36,4 @@ Publications: [scss.tcd.ie/Doug.Leith](https://www.scss.tcd.ie/Doug.Leith/)
 - [blc-python](https://github.com/doug-leith/blc-python) — BLC matrix-factorisation recommender ([arXiv:1509.05789](https://arxiv.org/abs/1509.05789))
 
 #### Other
-- [darknet-android](https://github.com/doug-leith/darknet-android) — port of Darknet to Android
 - [RRD-Editor](https://github.com/doug-leith/RRD-Editor) — standalone Perl tool to create and edit RRD files
